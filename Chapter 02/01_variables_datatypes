@@ -23,8 +23,7 @@ print(type(f))
 
 
 '''
-This problem is a solution of
-Problem 1 of CodeWithHarry Practice Set!
+Hey guys, how are you?
 '''
 # This is also a comment just like the above line
 
